@@ -1,1 +1,9 @@
-333926224ce02ae8750e4c4000352e6f1f5dd94115636e944dc43e28.pugcoins.json
+{
+    "policyId": "333926224ce02ae8750e4c4000352e6f1f5dd94115636e944dc43e28",
+    "name": "Pug Coins",
+    "symbol": "PCoins",
+    "website": "https://puggies.club/",
+    "description": "Meme token of Cardano network",
+    "totalSupply": 50000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
