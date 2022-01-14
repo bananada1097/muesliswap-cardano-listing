@@ -1,0 +1,9 @@
+{
+    "policyId": "333926224ce02ae8750e4c4000352e6f1f5dd94115636e944dc43e28",
+    "name": "Pug Coins",
+    "symbol": "PCoins",
+    "website": "https://puggies.club/",
+    "description": "Meme token of Cardano network",
+    "totalSupply": 50000000,
+    "amounts": [1, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 1000, 10000, 100000]
+}
